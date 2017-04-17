@@ -5,6 +5,7 @@
 #define EPS_MIN 0.0000001                                           //許容誤差(最小)
 #define EPS_MAX 100000000                                           //許容誤差(最大)
 
+#テスト
 double K1A[MEM][MEM]={
     {5,1,1},
     {1,4,1},
